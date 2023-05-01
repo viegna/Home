@@ -74,7 +74,7 @@ header {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url('/images/bg_forest.jpg');
+    background: url('https://raw.githubusercontent.com/diogenes-oliveira/Home/main/images/bg_forest.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
